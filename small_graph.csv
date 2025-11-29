@@ -1,0 +1,2 @@
+n,m,seed,bf_size,bf_time,greedy_size,greedy_time,heu_size,heu_time,greedy_factor,heu_factor
+10,2,0,8,0.0026723999908426777,10,5.9999991208314896e-05,8,4.0400002035312355e-05,1.25,1.0
